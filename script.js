@@ -247,9 +247,9 @@ document.addEventListener('DOMContentLoaded', () => {
 // Animation du texte typé
 const roles = [
     "Étudiant en Informatique",
-    "Développeur Laravel",
-    "Développeur Angular",
     "Développeur Full Stack",
+    "Dev backend Laravel",
+    "Dev frontend Angular",
     "Développeur Mobile (Flutter)",
 ];
 
